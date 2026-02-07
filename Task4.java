@@ -19,5 +19,8 @@ public class Task4 {
             max=num3;
         }
         System.out.println("the max number is "+ max);
+
+
+        scanner.close();
     }
 }

@@ -11,6 +11,6 @@ public class Task6 {
         else{
             System.out.println("Consonant");
         }
-       
+       sc.close();
     }
 }

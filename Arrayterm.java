@@ -15,6 +15,6 @@ public class Arrayterm {
         for(int nums:num){
         System.out.println(nums);
         }
-        
+        sc.close();
     }
 }
