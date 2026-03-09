@@ -24,5 +24,6 @@ public class SquareRootTask {
         int num=sc.nextInt();
         SquareRootTask obj=new SquareRootTask();
         System.out.println(obj.Sr(num));
+        sc.close();
     }
 }

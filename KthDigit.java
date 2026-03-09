@@ -15,5 +15,6 @@ public class KthDigit {
             result=result/10;        
         }
     System.out.println(kth+" digit is "+ digit);
+    sc.close();
     }
 }

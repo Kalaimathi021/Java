@@ -24,7 +24,6 @@ class puppy extends dog{
 
 public class inheritancehybrid {
     public static void main(String[] args) {
-        //public static void main(String[] args) 
         cat ob=new cat();
         ob.eat();
     }

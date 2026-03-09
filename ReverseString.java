@@ -8,5 +8,6 @@ public class ReverseString {
         String str1 = new StringBuilder(str).reverse().toString();
         
         System.out.println(str1);
+        sc.close();
     }
 }
